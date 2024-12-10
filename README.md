@@ -20,7 +20,7 @@ Before running the script, ensure the following:
 3. Run the script using:
    ```bash
    python script_name.py
-Replace `script_name.py` with the actual script file name.
+   Replace `script_name.py` with the actual script file name.
 
 4. Follow the on-screen prompts:
 5. The converted DOCX file will be saved in the same directory as the script.
